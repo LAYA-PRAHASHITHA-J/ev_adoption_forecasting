@@ -1,0 +1,2 @@
+# ev_adoption_forecasting
+A forecasting of Electric Vehicles using Electric_Vehicle_Population_Size_History_By_County_.csv dataset
